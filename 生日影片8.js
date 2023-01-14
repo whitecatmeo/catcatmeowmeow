@@ -1,8 +1,8 @@
 function aa() {
-    window.open("https://loveyou1314and15yearshappybirthday.on.drv.tw/catcatmeow/%E7%94%9F%E6%97%A5%E5%BD%B1%E7%89%877.html")
+    location.href=("https://whitecatmeo.github.io/catcatmeowmeow/%E7%94%9F%E6%97%A5%E5%BD%B1%E7%89%877.html")
 }
 function cc() {
-    window.open("http://whitetiger.eu.org/%E9%9B%BB%E8%85%A6%E7%89%88/%E7%B5%A6%E5%B0%8F%E7%BE%8A%E7%BE%8A%E7%9A%84%E8%A9%B1.html")
+    location.href=("https://whitecatmeo.github.io/catcatmeowmeow/%E7%B5%A6%E5%B0%8F%E7%BE%8A%E7%BE%8A%E7%9A%84%E8%A9%B1.html")
 }
 /*
 aa生日影片7

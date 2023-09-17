@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.4); /* 半透明的白色背景 */
+      border: 2px solid #0078d4; /* 蓝色边框 */
+      border-radius: 15px; /* 更大的圆角 */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 1); /* 添加阴影效果 */
+  }
+
+  .lovee{
+    color: white;
+    font-size: 20px;
+    padding: 10px 25px;
+    background: transparent;
+    border:1px solid rgb(255, 0, 0);
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-shadow: 0 0 3px #ff0000, 0 0 1px #fc0404;
+}
+
+.s{
+    font-size: 200%;
+    text-align: center;
+}
